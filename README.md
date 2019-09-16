@@ -1,7 +1,7 @@
 # Ethereum-Geth-Blockchain-Peers
 Links to gist offering lists of peers for connecting to various ethereum geth blockchains
 
-# etheream geth peers for various chains
+# ethereum geth peers for various chains
 IMPORTANT RUN THE LATEST RELEASE OF THE GETH CLIENT FOR PEERS TO WORK - (https://geth.ethereum.org/downloads/)
 
 ## List of ethereum geth peers for various chains
