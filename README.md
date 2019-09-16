@@ -7,4 +7,5 @@ IMPORTANT RUN THE LATEST RELEASE OF THE GETH CLIENT FOR PEERS TO WORK - (https:/
 ## List of ethereum geth peers for various chains
 
 [Goerli Testnet](https://gist.github.com/rfikki/f00577796f84dd30bce367b22ad476dc)
-[![Goerli Testnet Lightclient](https://gist.github.com/rfikki/f00577796f84dd30bce367b22ad476dc)](https://gist.github.com/rfikki/f00577796f84dd30bce367b22ad476dc)
+
+[Goerli Testnet Lightclient](https://gist.github.com/rfikki/f00577796f84dd30bce367b22ad476dc)]
