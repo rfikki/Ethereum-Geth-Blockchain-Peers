@@ -27,4 +27,4 @@ IMPORTANT RUN THE LATEST RELEASE OF THE GETH CLIENT FOR PEERS TO WORK - (https:/
 
 [Rinkeby Testnet](https://gist.github.com/rfikki/9f5eeaa29946d8889bae8200002f0c34)
 
-[Rinkeby Testnet Lightclient]()
+[Rinkeby Testnet Lightclient](https://gist.github.com/rfikki/589c290f400a563c2bce872b2648bdeb)
